@@ -1,7 +1,7 @@
 # food_calorie
 Little project for an internship
 
-Take images of food as inputs and detects the food and estimates the calorie intake.
+Takes images as inputs and detects the food in it. Then estimates the calorie intake.
 Example food images in the 'food' file.
 
 Uses TensorFlow's Keras for image detection, and Watsonx AI via LangChain for calorie estimates.
