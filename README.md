@@ -1,5 +1,5 @@
 # food_calorie
-Little project for an internship
+Project for an internship
 
 Takes images as inputs and detects the food in it. Then estimates the calorie intake.
 Example food images in the 'food' file.
